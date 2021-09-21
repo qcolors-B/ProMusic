@@ -28,10 +28,10 @@ Type (npm i) in console
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "-",
   "PRUNING": false,
-  "STAY_TIME": 30,
-  "LOCALE": "en",
+  "STAY_TIME": 120,
+  "LOCALE": "ko",
   "support_server": "",
   "DEFAULT_VOLUME": 100
 }
@@ -50,7 +50,7 @@ Currently available locales are:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Note: The default prefix is '-'
 
 * 🎶 Using YouTube Url
 
